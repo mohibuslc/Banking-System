@@ -1,0 +1,45 @@
+body{
+
+    padding: 100px ;
+
+    color : red;
+    
+}
+#submit-area{
+
+    
+    margin-top: 50px;
+    border: 2px solid red;
+   box-shadow: 5px 10px #888888; 
+   border-radius: 25px;
+   padding: 50px ; 
+
+
+}
+
+#Tran-Area{
+
+display: none;
+}
+
+.deposit{
+
+    background-color: blue;
+}
+
+.withdraw{
+
+    background-color: yellowgreen;
+}
+.balance{
+
+    background-color:darkcyan
+}
+
+.status{
+
+    margin: 0px 20px ; 
+    border-radius: 10px;
+    padding:8px;
+    color: white;
+}
